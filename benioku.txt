@@ -1,0 +1,9 @@
+Aşağıdaki bağlantının tasarımı yapılacaktır.
+
+https://www.w3schools.com/w3css/tryw3css_templates_social.htm
+
+Hazır navbar örneği:
+https://getbootstrap.com/docs/5.2/components/navbar/#nav
+
+Hazır Temalar:
+https://bootswatch.com/
